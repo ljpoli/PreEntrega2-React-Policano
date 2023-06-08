@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "titulo": "Campbells Soup-Andy Warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen":  "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 2,
+        "titulo": "Marilyn Monroe-Andy Warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen":  "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 3,
+        "titulo": "Cow-Andy Warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen": "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 4,
+        "titulo": "Banana-Andy warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen": "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 5,
+        "titulo": "Brillo Box-Andy Warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen": "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 6,
+        "titulo": "Mao-Andy Warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen": "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 7,
+        "titulo": "Orange Prince-Andy Warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen": "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 8,
+        "titulo": "Che Guevara-Andy Warhol",
+        "descripcion": "Pintura acrílica de 1 x 1 m",
+        "categoria": "Arte-pop",
+        "imagen": "http://dummyimage.com/200x100.png/00ff00/555555",
+        "precio": 15000
+    },
+    {
+        "id": 9,
+        "titulo": "La metamorfosis de Narciso-Salvador Dalí",
+        "descripcion": "Pintura oleo de 80 x 80 cm ",
+        "categoria": "Surrealismo",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 20000
+    },
+    {
+        "id": 10,
+        "titulo": "La tentación de San Antonio-Salvador Dalí",
+        "descripcion": "Pintura oleo de 80 x 80 cm ",
+        "categoria": "Surrealismo",
+        "imagen":  "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 20000
+    },
+    {
+        "id": 11,
+        "titulo": "La persistencia de la memoria-Salvador Dalí",
+        "descripcion": "Pintura oleo de 80 x 80 cm ",
+        "categoria": "Surrealismo",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 20000
+    },
+    {
+        "id": 12,
+        "titulo": "El torero alucinógeno-Salvador Dalí",
+        "descripcion": "Pintura oleo de 80 x 80 cm ",
+        "categoria": "Surrealismo",
+        "imagen":  "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 20000
+    },
+    {
+        "id": 13,
+        "titulo": "La última cena-Salvador Dalí",
+        "descripcion": "Pintura oleo de 80 x 80 cm ",
+        "categoria": "Surrealismo",
+        "imagen":  "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 20000
+    },
+    {
+        "id": 14,
+        "titulo": "Jirafa en llamas-Salvador Dalí",
+        "descripcion": "Pintura oleo de 80 x 80 cm ",
+        "categoria": "Surrealismo",
+        "imagen":  "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 20000
+    },
+    {
+        "id": 15,
+        "titulo": "Impresión, sol naciente-Monet",
+        "descripcion": "Lienzo impreso de 40 x 50 cm",
+        "categoria": "Impresionismo",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 8500
+    },
+    {
+        "id": 16,
+        "titulo": "Mujer con sombrilla-Monet",
+        "descripcion": "Lienzo impreso de 40 x 50 cm",
+        "categoria": "Impresionismo",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 8500
+    },
+    {
+        "id": 17,
+        "titulo": "Amapolas-Monet",
+        "descripcion": "Lienzo impreso de 40 x 50 cm",
+        "categoria": "Impresionismo",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 8500
+    },
+    {
+        "id": 18,
+        "titulo": "Crepúsculo de Venecia-Monet",
+        "descripcion": "Lienzo impreso de 40 x 50 cm",
+        "categoria": "Impresionismo",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 8500
+    },
+    {
+        "id": 19,
+        "titulo": "El jardín del artista en  Giverny-Monet",
+        "descripcion": "Lienzo impreso de 40 x 50 cm",
+        "categoria": "Impresionismo",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 8500
+    },
+    {
+        "id": 20,
+        "titulo": "El Estanque de Ninfeas-Monet",
+        "descripcion": "Lienzo impreso de 40 x 50 cm",
+        "categoria": "Impresionismo",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 8500
+    }
+]
